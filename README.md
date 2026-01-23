@@ -3,7 +3,7 @@
 ![No Redistribution](https://img.shields.io/badge/No%20Redistribution-%F0%9F%93%81-lightgrey)
 ![Original Designs](https://img.shields.io/badge/Original%20Designs-%E2%AD%90-blue)
 
-### **Disclaimer**
+### **Disclaimer & Proprietary Usage License.**
 
 By viewing, downloading, using, or referencing any project file or 3D model in this repository, you agree that all content is for personal and non-commercial use only. You may not directly copy, replicate, redistribute, or commercially exploit any design in any form. Inspiration may be taken, but producing substantially similar works or re-uploading these files is strictly prohibited. Any violations of these terms will be investigated and handled accordingly.
 
